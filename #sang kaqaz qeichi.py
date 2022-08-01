@@ -1,4 +1,4 @@
-# sang kaqaz qeichi
+# rock paper scissors
 import random
 user_wins=0
 pc_wins=0
